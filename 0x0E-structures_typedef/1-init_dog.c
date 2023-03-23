@@ -7,11 +7,20 @@
 * @age: age to initialize
 * @owner: owner to initialize
 */
+<<<<<<< HEAD
 void init_dog(struct dog *d, char *name, float age, char *owner)
 {
+=======
+
+void init_dog(struct dog *d, char *name, float age, char *owner){
+>>>>>>> 7a98068decfbba9eb2e219d95036ef8517ca6795
 	if (d == NULL)
 		d = malloc(sizeof(struct dog));
 	d->name = name;
 	d->age = age;
 	d->owner = owner;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7a98068decfbba9eb2e219d95036ef8517ca6795

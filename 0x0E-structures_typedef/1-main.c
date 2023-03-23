@@ -6,6 +6,10 @@
  *
  * Return: Always 0.
  */
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7a98068decfbba9eb2e219d95036ef8517ca6795
 int main(void)
 {
 	struct dog my_dog;

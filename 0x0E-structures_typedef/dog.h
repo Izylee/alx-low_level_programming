@@ -1,9 +1,14 @@
 #ifndef DOG_H
 #define DOG_H
 
+<<<<<<< HEAD
 
 /**
 * struct dog - a dog's basic info
+=======
+/**
+ * struct dog - a dog's basic info
+>>>>>>> 7a98068decfbba9eb2e219d95036ef8517ca6795
 * @name: First member
 * @age: Second member
 * @owner: Third member
@@ -18,7 +23,10 @@ struct dog
 	char *owner;
 };
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7a98068decfbba9eb2e219d95036ef8517ca6795
 /**
 * dog_t - typedef for struct dog
 */
